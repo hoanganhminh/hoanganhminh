@@ -13,7 +13,7 @@ If you're interested in connecting or discussing potential collaborations, pleas
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=hoanganhminh&theme=react&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hoanganhminh&theme=react&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hoanganhminh&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hoanganhminh&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact&langs_count=8)
 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=hoanganhminh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
