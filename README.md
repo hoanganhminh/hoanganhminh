@@ -1,7 +1,9 @@
 # 💫About Me :
 Hi there,
 
-I'm Hoàng Anh Minh, a Software Engineering currently working at FPT Software. With a strong passion for technology and a commitment to continuous learning, I'm always open to exploring new career opportunities in the software development field.
+I'm Hoàng Anh Minh, a Software Engineering currently working at FPT Software. With two years of professional experience in software development, I have acquired solid expertise in building applications using the C# programming language within the .NET ecosystem.
+
+My strong passion for technology and dedication to continuous learning have always been guiding principles in my career. I'm constantly open to exploring new opportunities in the software development field and am committed to making positive contributions to any project.
 
 If you're interested in connecting or discussing potential collaborations, please feel free to get in touch. Thank you for visiting my profile!
 
