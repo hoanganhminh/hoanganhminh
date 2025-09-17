@@ -1,7 +1,7 @@
 # 💫About Me 
 Hi there,
 
-I'm Hoàng Anh Minh, a Software Engineering currently working at FPT Software. With two years of professional experience in software development, I have acquired solid expertise in building applications using the C# programming language within the .NET ecosystem.
+I'm Hoàng Anh Minh, a Software Engineering currently working at CMC Global. With three years of professional experience in software development, I have acquired solid expertise in building applications using the C# programming language within the .NET ecosystem.
 
 My strong passion for technology and dedication to continuous learning have always been guiding principles in my career. I'm constantly open to exploring new opportunities in the software development field and am committed to making positive contributions to any project.
 
